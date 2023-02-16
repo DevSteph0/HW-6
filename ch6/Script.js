@@ -1,1 +1,0 @@
-object.onclick = function(){searchbutton};
